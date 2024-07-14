@@ -5,7 +5,7 @@
 // Software          - C/C++, Arduino IDE, Libraries
 // Hardware          - NodeMCU ESP32S, 8 Channel Relay Board, VS1838B IR Receiver      
 // Sensors Used      - Null
-// Source Repo       - github.com/make2explore
+// Source Repo       - https://github.com/make2explore/esp32-RainMaker-SmartHome-Project-IR/
 // ===========================================================================================================//
 
 #define DECODE_NEC                      // IR Remote Protocol
